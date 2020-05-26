@@ -1,5 +1,5 @@
 /*!
-  * vue-router v3.1.5
+  * vue-router v3.2.0
   * (c) 2020 Evan You
   * @license MIT
   */
@@ -28,3 +28,9 @@
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
+
+//! moment.js
+
+//! moment.js language configuration
+
+//! moment.js locale configuration
